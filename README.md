@@ -1,4 +1,4 @@
-# bank-challenge
+# bank-transaction-processing
 
 Run the program with Result.java.
 
